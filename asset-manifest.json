@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wedpage/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/wedpage/static/js/main.7c31b732.chunk.js",
+    "main.js.map": "/wedpage/static/js/main.7c31b732.chunk.js.map",
+    "runtime-main.js": "/wedpage/static/js/runtime-main.5821e4ed.js",
+    "runtime-main.js.map": "/wedpage/static/js/runtime-main.5821e4ed.js.map",
+    "static/js/2.eef7e36f.chunk.js": "/wedpage/static/js/2.eef7e36f.chunk.js",
+    "static/js/2.eef7e36f.chunk.js.map": "/wedpage/static/js/2.eef7e36f.chunk.js.map",
+    "static/js/3.944113f5.chunk.js": "/wedpage/static/js/3.944113f5.chunk.js",
+    "static/js/3.944113f5.chunk.js.map": "/wedpage/static/js/3.944113f5.chunk.js.map",
+    "index.html": "/wedpage/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/wedpage/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eef7e36f.chunk.js.LICENSE.txt": "/wedpage/static/js/2.eef7e36f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wedpage/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5821e4ed.js",
+    "static/js/2.eef7e36f.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7c31b732.chunk.js"
+  ]
+}
