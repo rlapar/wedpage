@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/wedpage/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/wedpage/static/js/main.864e7f43.chunk.js",
-    "main.js.map": "/wedpage/static/js/main.864e7f43.chunk.js.map",
-    "runtime-main.js": "/wedpage/static/js/runtime-main.5821e4ed.js",
-    "runtime-main.js.map": "/wedpage/static/js/runtime-main.5821e4ed.js.map",
-    "static/js/2.eef7e36f.chunk.js": "/wedpage/static/js/2.eef7e36f.chunk.js",
-    "static/js/2.eef7e36f.chunk.js.map": "/wedpage/static/js/2.eef7e36f.chunk.js.map",
-    "static/js/3.944113f5.chunk.js": "/wedpage/static/js/3.944113f5.chunk.js",
-    "static/js/3.944113f5.chunk.js.map": "/wedpage/static/js/3.944113f5.chunk.js.map",
-    "index.html": "/wedpage/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/wedpage/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.eef7e36f.chunk.js.LICENSE.txt": "/wedpage/static/js/2.eef7e36f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/wedpage/static/media/logo.6ce24c58.svg"
+    "main.css": "/test.radovanasimona.cz/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/test.radovanasimona.cz/static/js/main.864e7f43.chunk.js",
+    "main.js.map": "/test.radovanasimona.cz/static/js/main.864e7f43.chunk.js.map",
+    "runtime-main.js": "/test.radovanasimona.cz/static/js/runtime-main.76979c57.js",
+    "runtime-main.js.map": "/test.radovanasimona.cz/static/js/runtime-main.76979c57.js.map",
+    "static/js/2.eef7e36f.chunk.js": "/test.radovanasimona.cz/static/js/2.eef7e36f.chunk.js",
+    "static/js/2.eef7e36f.chunk.js.map": "/test.radovanasimona.cz/static/js/2.eef7e36f.chunk.js.map",
+    "static/js/3.944113f5.chunk.js": "/test.radovanasimona.cz/static/js/3.944113f5.chunk.js",
+    "static/js/3.944113f5.chunk.js.map": "/test.radovanasimona.cz/static/js/3.944113f5.chunk.js.map",
+    "index.html": "/test.radovanasimona.cz/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/test.radovanasimona.cz/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.eef7e36f.chunk.js.LICENSE.txt": "/test.radovanasimona.cz/static/js/2.eef7e36f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/test.radovanasimona.cz/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5821e4ed.js",
+    "static/js/runtime-main.76979c57.js",
     "static/js/2.eef7e36f.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.864e7f43.chunk.js"
