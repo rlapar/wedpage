@@ -9,16 +9,16 @@ const NavLinks = props => {
     return (
         <ul className="nav-links">
             <li>
-                <Link to="/journey" className="link" tabIndex={ tempTabIndex }>Naše cesta</Link>
+                <Link to={process.env.PUBLIC_URL + '/journey'} className="link" tabIndex={ tempTabIndex }>Naše cesta</Link>
             </li>
             <li>
-                <Link to="/place" className="link" tabIndex={ tempTabIndex }>Místo</Link>
+                <Link to={process.env.PUBLIC_URL + '/place'} className="link" tabIndex={ tempTabIndex }>Místo</Link>
             </li>
             <li>
-                <Link to="/program" className="link" tabIndex={ tempTabIndex }>Program</Link>
+                <Link to={process.env.PUBLIC_URL + '/program'} className="link" tabIndex={ tempTabIndex }>Program</Link>
             </li>
             <li>
-                <Link to="/info" className="link" tabIndex={ tempTabIndex }>Důležité informace</Link>
+                <Link to={process.env.PUBLIC_URL + '/info'} className="link" tabIndex={ tempTabIndex }>Důležité informace</Link>
             </li>
         </ul>
     )
