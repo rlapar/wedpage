@@ -19,6 +19,8 @@ jobs:
 
       - name: Build
         run: npm install && npm run build
+        env: # https://stackoverflow.com/questions/63445967/githubs-action-is-not-building-react-application
+          CI: false
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@4.1.5
