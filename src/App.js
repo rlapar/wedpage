@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import Navbar from './components/navigation/Navbar';
-import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import { HashRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './pages';
 import Journey from './pages/journey';
 import Place from './pages/place';
@@ -13,11 +13,11 @@ function App() {
       <Router>
         <Navbar />
         <Switch>
-          <Route path={process.env.PUBLIC_URL + '/'} exact component={Home} />
-          <Route path={process.env.PUBLIC_URL + '/journey'} component={Journey} />
-          <Route path={process.env.PUBLIC_URL + '/place'} component={Place} />
-          <Route path={process.env.PUBLIC_URL + '/program'} component={Program} />
-          <Route path={process.env.PUBLIC_URL + '/info'} component={Info} />
+          <Route path={'/'} exact component={Home} />
+          <Route path={'/journey'} component={Journey} />
+          <Route path={'/place'} component={Place} />
+          <Route path={'/program'} component={Program} />
+          <Route path={'/info'} component={Info} />
         </Switch>
       </Router>
   );
