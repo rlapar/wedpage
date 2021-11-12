@@ -92,7 +92,7 @@ const MyMobileNavButton = styled.button`
 const DesktopNavbar = props => {
     return (
         <MyDesktopNavbar>
-            <Link to={process.env.PUBLIC_URL + '/'} className="link">
+            <Link to={'/'} className="link">
                 <img className="logo" src={logo} alt="logo"/>
             </Link>
 
