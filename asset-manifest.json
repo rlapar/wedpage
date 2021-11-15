@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/wedpage/static/css/main.33a2582b.chunk.css",
-    "main.js": "/wedpage/static/js/main.8d83776e.chunk.js",
-    "main.js.map": "/wedpage/static/js/main.8d83776e.chunk.js.map",
+    "main.js": "/wedpage/static/js/main.494a9447.chunk.js",
+    "main.js.map": "/wedpage/static/js/main.494a9447.chunk.js.map",
     "runtime-main.js": "/wedpage/static/js/runtime-main.a4c16b63.js",
     "runtime-main.js.map": "/wedpage/static/js/runtime-main.a4c16b63.js.map",
-    "static/js/2.09b29752.chunk.js": "/wedpage/static/js/2.09b29752.chunk.js",
-    "static/js/2.09b29752.chunk.js.map": "/wedpage/static/js/2.09b29752.chunk.js.map",
+    "static/js/2.efa37f12.chunk.js": "/wedpage/static/js/2.efa37f12.chunk.js",
+    "static/js/2.efa37f12.chunk.js.map": "/wedpage/static/js/2.efa37f12.chunk.js.map",
     "index.html": "/wedpage/index.html",
     "static/css/main.33a2582b.chunk.css.map": "/wedpage/static/css/main.33a2582b.chunk.css.map",
-    "static/js/2.09b29752.chunk.js.LICENSE.txt": "/wedpage/static/js/2.09b29752.chunk.js.LICENSE.txt",
+    "static/js/2.efa37f12.chunk.js.LICENSE.txt": "/wedpage/static/js/2.efa37f12.chunk.js.LICENSE.txt",
     "static/media/App.css": "/wedpage/static/media/background_alps.bcd59a26.jpeg",
     "static/media/menu_arrow.3cbc0782.svg": "/wedpage/static/media/menu_arrow.3cbc0782.svg",
     "static/media/wedding-rings-logo-white.a72d049c.svg": "/wedpage/static/media/wedding-rings-logo-white.a72d049c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a4c16b63.js",
-    "static/js/2.09b29752.chunk.js",
+    "static/js/2.efa37f12.chunk.js",
     "static/css/main.33a2582b.chunk.css",
-    "static/js/main.8d83776e.chunk.js"
+    "static/js/main.494a9447.chunk.js"
   ]
 }
