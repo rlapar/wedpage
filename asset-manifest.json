@@ -1,23 +1,45 @@
 {
   "files": {
     "main.css": "/static/css/main.49fb31da.chunk.css",
-    "main.js": "/static/js/main.ef31d709.chunk.js",
-    "main.js.map": "/static/js/main.ef31d709.chunk.js.map",
+    "main.js": "/static/js/main.d49f4603.chunk.js",
+    "main.js.map": "/static/js/main.d49f4603.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa33d881.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa33d881.js.map",
-    "static/js/2.1a4d321d.chunk.js": "/static/js/2.1a4d321d.chunk.js",
-    "static/js/2.1a4d321d.chunk.js.map": "/static/js/2.1a4d321d.chunk.js.map",
+    "static/css/2.2e99a83d.chunk.css": "/static/css/2.2e99a83d.chunk.css",
+    "static/js/2.9b4f7c50.chunk.js": "/static/js/2.9b4f7c50.chunk.js",
+    "static/js/2.9b4f7c50.chunk.js.map": "/static/js/2.9b4f7c50.chunk.js.map",
     "index.html": "/index.html",
+    "static/css/2.2e99a83d.chunk.css.map": "/static/css/2.2e99a83d.chunk.css.map",
     "static/css/main.49fb31da.chunk.css.map": "/static/css/main.49fb31da.chunk.css.map",
-    "static/js/2.1a4d321d.chunk.js.LICENSE.txt": "/static/js/2.1a4d321d.chunk.js.LICENSE.txt",
+    "static/js/2.9b4f7c50.chunk.js.LICENSE.txt": "/static/js/2.9b4f7c50.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/background_alps.bcd59a26.jpeg",
+    "static/media/doggo.b76d7c7a.jpeg": "/static/media/doggo.b76d7c7a.jpeg",
+    "static/media/engagement.4968bd1c.jpg": "/static/media/engagement.4968bd1c.jpg",
+    "static/media/first_date.3a9dd7eb.jpg": "/static/media/first_date.3a9dd7eb.jpg",
+    "static/media/logo_engagement.5ac8059e.svg": "/static/media/logo_engagement.5ac8059e.svg",
+    "static/media/logo_holding_hands.b4ad69f9.svg": "/static/media/logo_holding_hands.b4ad69f9.svg",
+    "static/media/logo_house.1e6e9a0e.svg": "/static/media/logo_house.1e6e9a0e.svg",
+    "static/media/logo_meet.0b8beebd.svg": "/static/media/logo_meet.0b8beebd.svg",
+    "static/media/logo_slovenia.9314caef.svg": "/static/media/logo_slovenia.9314caef.svg",
+    "static/media/logo_vacation.94a6b663.svg": "/static/media/logo_vacation.94a6b663.svg",
+    "static/media/logo_wedding.e5ddcdc9.svg": "/static/media/logo_wedding.e5ddcdc9.svg",
+    "static/media/logo_xmas.4636e1b2.svg": "/static/media/logo_xmas.4636e1b2.svg",
     "static/media/menu_arrow.3cbc0782.svg": "/static/media/menu_arrow.3cbc0782.svg",
-    "static/media/wedding-rings-logo-white.a72d049c.svg": "/static/media/wedding-rings-logo-white.a72d049c.svg"
+    "static/media/vacation_greece.a520052b.jpeg": "/static/media/vacation_greece.a520052b.jpeg",
+    "static/media/vacation_kutna_hora.5d22d49b.jpeg": "/static/media/vacation_kutna_hora.5d22d49b.jpeg",
+    "static/media/vacation_lednice.0bdf5e14.jpg": "/static/media/vacation_lednice.0bdf5e14.jpg",
+    "static/media/vacation_rome.184b446d.jpg": "/static/media/vacation_rome.184b446d.jpg",
+    "static/media/vacation_tatry.912f21c8.jpeg": "/static/media/vacation_tatry.912f21c8.jpeg",
+    "static/media/wedding-rings-logo-white.a72d049c.svg": "/static/media/wedding-rings-logo-white.a72d049c.svg",
+    "static/media/xmas_candles.9ff1451f.jpeg": "/static/media/xmas_candles.9ff1451f.jpeg",
+    "static/media/xmas_selfie.587b2cfc.jpeg": "/static/media/xmas_selfie.587b2cfc.jpeg",
+    "static/media/xmas_tree.9ee9a293.jpeg": "/static/media/xmas_tree.9ee9a293.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa33d881.js",
-    "static/js/2.1a4d321d.chunk.js",
+    "static/css/2.2e99a83d.chunk.css",
+    "static/js/2.9b4f7c50.chunk.js",
     "static/css/main.49fb31da.chunk.css",
-    "static/js/main.ef31d709.chunk.js"
+    "static/js/main.d49f4603.chunk.js"
   ]
 }
