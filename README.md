@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+https://github.com/milosrancic/reactjs-website/blob/master/src/components/navigation/Navbar.js
+https://github.com/rafgraph/spa-github-pages
+https://github.com/facebook/create-react-app/issues/1765
+https://medium.com/@arijit_chowdhury/deploy-react-app-with-react-router-to-github-pages-for-free-569377f483f
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
