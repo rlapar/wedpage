@@ -187,7 +187,7 @@ class Journey extends Component {
                             Vařili spolu bryndzové halušky nebo bramboráčky jako ukázku česko-slovenské kuchyně celému světu.
                         </p>
                         <p>
-                            Denodenní společné aktivity vyústily až v prvnítorysk rande na Lublaňském hradě.
+                            Denodenní společné aktivity vyústily až v první rande na Lublaňském hradě.
                             Nutno podotknout, že ženich i nevěsta byli značně nervózní a detaily společné komunikace už nejsou nikomu známé.
                             S největší pravděpodobností ale bylo hlavním tématem počasí, případně pařící Španělé, kteří je nenechali v noci na koleji vyspat.
                         </p>
