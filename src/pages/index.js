@@ -129,7 +129,7 @@ const Home = props => {
                 </Row>
                 <Row style={{marginBottom: "3vh"}}>
                     <Col xs={12}>
-                        <a className="form-button" href="https://forms.gle/CLMisTW7yiscJr8bA" target="_blank">Vyplnit</a>
+                        <a className="form-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfC6MwJBM89FYImjC3-WUAfV6KNkJQ5NwIlQlSEoJr9yysJbA/viewform?usp=sf_link" target="_blank">Vyplnit</a>
                     </Col>
                 </Row>
 
