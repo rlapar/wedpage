@@ -14,9 +14,9 @@ const NavLinks = props => {
             <li>
                 <Link to={'/place'} className="link" tabIndex={ tempTabIndex }>Místo</Link>
             </li>
-            <li>
-                <Link to={'/program'} className="link" tabIndex={ tempTabIndex }>Program</Link>
-            </li>
+            {/*<li>*/}
+            {/*    <Link to={'/program'} className="link" tabIndex={ tempTabIndex }>Program</Link>*/}
+            {/*</li>*/}
             <li>
                 <Link to={'/info'} className="link" tabIndex={ tempTabIndex }>Důležité informace</Link>
             </li>
