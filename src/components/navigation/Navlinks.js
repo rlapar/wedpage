@@ -9,16 +9,16 @@ const NavLinks = props => {
     return (
         <ul className="nav-links">
             <li>
-                <Link to={'/journey'} className="link" tabIndex={ tempTabIndex }>Naše cesta</Link>
+                <Link to={'/journey'} className="link" tabIndex={ tempTabIndex } onClick={props.toggleMobileNavbar}>Naše cesta</Link>
             </li>
             <li>
-                <Link to={'/place'} className="link" tabIndex={ tempTabIndex }>Místo</Link>
+                <Link to={'/place'} className="link" tabIndex={ tempTabIndex } onClick={props.toggleMobileNavbar}>Místo</Link>
             </li>
             {/*<li>*/}
             {/*    <Link to={'/program'} className="link" tabIndex={ tempTabIndex }>Program</Link>*/}
             {/*</li>*/}
             <li>
-                <Link to={'/info'} className="link" tabIndex={ tempTabIndex }>Důležité informace</Link>
+                <Link to={'/info'} className="link" tabIndex={ tempTabIndex } onClick={props.toggleMobileNavbar}>Důležité informace</Link>
             </li>
         </ul>
     )

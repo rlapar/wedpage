@@ -47,7 +47,7 @@ class Navbar extends Component {
                     toggleMobileNavbar = {this.toggleMobileNavbar}
                     displayMobileNavbar = {this.state.displayMobileNavbar}
                 />
-                <MobileNavbar displayMobileNavbar = {this.state.displayMobileNavbar}/>
+                <MobileNavbar displayMobileNavbar = {this.state.displayMobileNavbar} toggleMobileNavbar={this.toggleMobileNavbar}/>
             </MyNavbar>
         )
     }

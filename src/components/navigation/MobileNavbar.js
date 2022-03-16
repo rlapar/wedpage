@@ -36,7 +36,7 @@ const MyMobileNavbar = styled.nav`
 const MobileNavbar = props => {
     return (
         <MyMobileNavbar displayMobileNavbar = {props.displayMobileNavbar}>
-            <NavLinks isMobileLink = {true}/>
+            <NavLinks isMobileLink = {true} toggleMobileNavbar = {props.toggleMobileNavbar}/>
         </MyMobileNavbar>
     )
 }
