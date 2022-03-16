@@ -93,7 +93,7 @@ const DesktopNavbar = props => {
     return (
         <MyDesktopNavbar>
             <Link to={'/'} className="link">
-                <img className="logo" src={logo} alt="logo"/>
+                <img className="logo" src={logo} alt="logo" onClick = {props.toggleMobileNavbar}/>
             </Link>
 
             <NavLinks />
