@@ -2,6 +2,7 @@ import React from 'react';
 import styled from "styled-components";
 
 import {Container, Row, Col} from "react-grid-system";
+import {Link} from "react-router-dom";
 
 const MyHomepage = styled.nav`
   display: flex;
@@ -123,13 +124,29 @@ const Home = props => {
                 </Row>
                 <Row style={{marginBottom: "3vh"}}>
                     <Col xs={12}>
-                        <h3 className="ternary-heading">Prosím dejte nám vědet jestli dorazíte</h3>
-                        <h3 className="ternary-heading">vyplněním nasledujícího formuláře</h3>
+                        <h3 className="ternary-heading">Vážený a milí svatební hosté,</h3>
+                        <h3 className="ternary-heading">jelikož se pomalu blíží náš velký den, rádi bychom Vám upřesnili informace o tom,</h3>
+                        <h3 className="ternary-heading">jak bude svatební den probíhat.</h3>
+
+                        {/*<h3 className="ternary-heading">Prosím dejte nám vědet jestli dorazíte</h3>*/}
+                        {/*<h3 className="ternary-heading">vyplněním nasledujícího formuláře</h3>*/}
                     </Col>
                 </Row>
                 <Row style={{marginBottom: "3vh"}}>
                     <Col xs={12}>
-                        <a className="form-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfC6MwJBM89FYImjC3-WUAfV6KNkJQ5NwIlQlSEoJr9yysJbA/viewform?usp=sf_link" target="_blank">Vyplnit</a>
+                        <Link to={'/info'} className="form-button">Chci vědět víc</Link>
+                        {/*<a className="form-button" href="https://docs.google.com/forms/d/e/1FAIpQLSfC6MwJBM89FYImjC3-WUAfV6KNkJQ5NwIlQlSEoJr9yysJbA/viewform?usp=sf_link" target="_blank">Vyplnit</a>*/}
+                    </Col>
+                </Row>
+                <Row style={{marginBottom: "3vh"}}>
+                    <Col xs={12}>
+                        <h3 className="ternary-heading">Pokud zjistíte, že nakonec nebudete moci na naši svatbu dorazit,</h3>
+                        <h3 className="ternary-heading">prosíme, abyste nám to dali co nejdříve vědět.</h3>
+                    </Col>
+                </Row>
+                <Row style={{marginBottom: "3vh"}}>
+                    <Col xs={12}>
+                        <h3 className="secondary-heading">Moc se na Vás těšíme!</h3>
                     </Col>
                 </Row>
 
