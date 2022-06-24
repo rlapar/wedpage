@@ -133,7 +133,7 @@ const Info = () => {
                         <Row className="program-item"><Col md={2} className="program-item-time">13:00</Col><Col md={10}>Obřad ve venkovní části penzionu Fitfarma (pokud počasí nedovolí, tak uvnitř).</Col></Row>
                         <Row className="program-item"><Col md={2} className="program-item-time">13:30 - 14:00</Col><Col md={10}>Společné focení svatebčanů</Col></Row>
                         <Row className="program-item"><Col md={2} className="program-item-time">14:00</Col><Col md={10}>Slavnostní oběd</Col></Row>
-                        <Row className="program-item"><Col md={2} className="program-item-time">15>00</Col><Col md={10}>Krájení svatebního dortu</Col></Row>
+                        <Row className="program-item"><Col md={2} className="program-item-time">15:00</Col><Col md={10}>Krájení svatebního dortu</Col></Row>
                         <Row className="program-item"><Col md={2} className="program-item-time">15:30</Col><Col md={10}>Hod kyticí a začátek prodeje svatební tomboly</Col></Row>
                         <Row className="program-item"><Col md={2} className="program-item-time">15:30 - 16:30</Col><Col md={10}>Průběh a vyhlášení tomboly</Col></Row>
                         <Row className="program-item"><Col md={2} className="program-item-time">17:00</Col><Col md={10}>První novomanželský tanec</Col></Row>
@@ -205,7 +205,7 @@ const Info = () => {
                 </Col>
                 <Col md={10}>
                     <p className="table-content"><b>
-                        Naší svatbu vám spříjemní kapela <a href="https://melodikum.cz/" target="_blank">Melodikum</a>.
+                        Naší svatbu vám zpříjemní kapela <a href="https://melodikum.cz/" target="_blank">Melodikum</a>.
                         Hrát bude mezi 17:00 - 23:00, pak pustíme půlnoční playlist ze Spotify.
                     </b></p>
                 </Col>
@@ -228,7 +228,7 @@ const Info = () => {
                             </li>
                             <li>
                                 Jestliže máte zájem i o dovoz na obřad, dejte nám to prosím brzy vědět - domluvili bychom
-                                Vám někoho dalšího ze svatebčanů, kdo má třeba cestou kolem.
+                                Vám někoho dalšího ze svatebčanů, kdo má třeba cestu kolem.
                             </li>
                         </ul>
                     </b></p>
