@@ -124,7 +124,7 @@ const Home = props => {
                 </Row>
                 <Row style={{marginBottom: "3vh"}}>
                     <Col xs={12}>
-                        <h3 className="ternary-heading">Vážený a milí svatební hosté,</h3>
+                        <h3 className="ternary-heading">Vážení a milí svatební hosté,</h3>
                         <h3 className="ternary-heading">jelikož se pomalu blíží náš velký den, rádi bychom Vám upřesnili informace o tom,</h3>
                         <h3 className="ternary-heading">jak bude svatební den probíhat.</h3>
 
